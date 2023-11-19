@@ -32,7 +32,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${helveticaNeue.className} flex min-h-screen flex-col items-center justify-between bg-gray-200`}
+        className={`${helveticaNeue.className} flex min-h-screen flex-col items-center justify-center bg-gray-200`}
       >
         {children}
       </body>
