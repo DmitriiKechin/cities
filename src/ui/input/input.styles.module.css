@@ -1,0 +1,3 @@
+.input {
+  @apply text-gray-700 placeholder:text-gray-700 disabled:text-gray-400 disabled:placeholder:text-gray-400 disabled:bg-transparent bg-transparent focus:outline-0;
+}
