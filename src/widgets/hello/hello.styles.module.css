@@ -1,0 +1,3 @@
+.li {
+  @apply before:content-['●'] before:px-1.5 before:text-[0.6rem] flex;
+}
